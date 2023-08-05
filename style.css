@@ -1,0 +1,26 @@
+#clock {
+    border: 4px solid red;
+    max-width: 700px;
+    height: auto;
+    margin: auto;
+    text-align:center;
+    font-size:7vw;
+    padding:12px;
+    margin-top: 190px;
+    color: rgb(241, 8, 210);
+    border-left-color: chartreuse;
+    border-right-color: rgb(33, 20, 220);
+    border-top-color: rgb(231, 142, 9);
+   
+    
+   
+
+}
+
+body {
+    background-color: black;
+    
+}
+
+
+
